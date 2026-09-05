@@ -1,0 +1,8 @@
+{
+  "name": "Remix Yuan Exchange - Продажа и обмен юаней",
+  "description": "Alipay жана WeChat эсептерине ыкчам юань салуу. 2+ жыл тажрыйба, 20 000+ кардар. MBank, О!Банк, Optima, Bakai, Бай Түшүм аркылуу төлөм.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
